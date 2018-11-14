@@ -1,0 +1,92 @@
+{
+	"result": {
+		"fLength": 3894,
+        "fType": "ARRAY", 
+        "fTimestamp": null,
+        "fArray": [
+            {
+                "fType": "TEXT", 
+                "fStr": "AÑO", 
+                "fHeader": True
+            },
+            {
+                "fType": "TEXT",
+                "fStr": "REGIÓN",
+                "fHeader": True
+            },
+            {
+                "fType": "TEXT", 
+                "fStr": "PUERTO", 
+                "fHeader": True
+            },
+            {
+                "fType": "TEXT",
+                "fStr": "LATITUD", 
+                "fHeader": True
+            },
+            {
+                "fType": "TEXT",
+                "fStr": "LONGITUD", 
+                "fHeader": True
+            }, 
+            {
+                "fType": "TEXT", 
+                "fStr": "TONELADAS",
+                "fHeader": True
+             },
+            {
+                "fStr": "2007",
+                "fType": "TEXT"
+            }, 
+            {
+                "fStr": "Antofagasta",
+                "fType": "TEXT"
+            }, 
+            {
+                "fStr": "Antofagasta",
+                "fType": "TEXT"
+            }, 
+            {
+                "fNum": -23.65, 
+                "fType": "NUMBER",
+                "fFormat": {
+                    "fPattern": "#,###.##", 
+                    "fLocale": "en-US"
+                },
+                "fDisplayFormat": {
+                    "fPattern": "#,###.##",
+                    "fLocale": "es", 
+                    "fLang": "es"
+                }
+            }, 
+            {
+                "fNum": -70.41, 
+                "fType": "NUMBER", 
+                "fFormat": {
+                    "fPattern": "#,###.##",
+                    "fLocale": "en-US"
+                },
+                "fDisplayFormat": {
+                    "fPattern": "#,###.##",
+                    "fLocale": "es", 
+                    "fLang": "es"
+                }
+            },
+            {
+                "fNum": 3573897.0,
+                "fType": "NUMBER", 
+                "fFormat": {
+                    "fPattern": "#,###.##", 
+                    "fLocale": "en-US"
+                },
+                "fDisplayFormat": {
+                    "fPattern": "#,###", 
+                    "fLocale": "es", 
+                    "fLang": "es"
+                }
+            }
+        ],
+        "fRows": 649,
+        "fCols": 6
+    }
+}
